@@ -356,6 +356,6 @@ RESULT: 47/47 — ALL CHECKS PASSED ✅
 
 ## 👨‍💻 Built By
 
-**Yash** — PromptWars Virtual Hackathon  
+**Sai Yashvanth** — PromptWars Virtual Hackathon  
 Stack: Vanilla HTML · CSS (Glassmorphism) · JavaScript (No frameworks)  
 Data: Election Commission of India (ECI) official sources
